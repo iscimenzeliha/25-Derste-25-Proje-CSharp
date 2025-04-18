@@ -1,0 +1,20 @@
+C:\Users\Asus\Desktop\PROJELER\Test_Petrol\Test_Petrol\bin\Debug\Test_Petrol.exe.config
+C:\Users\Asus\Desktop\PROJELER\Test_Petrol\Test_Petrol\bin\Debug\Test_Petrol.exe
+C:\Users\Asus\Desktop\PROJELER\Test_Petrol\Test_Petrol\bin\Debug\Test_Petrol.pdb
+C:\Users\Asus\Desktop\PROJELER\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PROJELER\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.Form1.resources
+C:\Users\Asus\Desktop\PROJELER\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.Properties.Resources.resources
+C:\Users\Asus\Desktop\PROJELER\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\PROJELER\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PROJELER\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.exe
+C:\Users\Asus\Desktop\PROJELER\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.pdb
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Test_Petrol\Test_Petrol\bin\Debug\Test_Petrol.exe.config
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Test_Petrol\Test_Petrol\bin\Debug\Test_Petrol.exe
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Test_Petrol\Test_Petrol\bin\Debug\Test_Petrol.pdb
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.Form1.resources
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.Properties.Resources.resources
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.exe
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.pdb

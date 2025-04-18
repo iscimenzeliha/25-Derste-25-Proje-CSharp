@@ -1,0 +1,24 @@
+C:\Users\Asus\Desktop\PROJELER\BankaTest\BankaTest\bin\Debug\BankaTest.exe.config
+C:\Users\Asus\Desktop\PROJELER\BankaTest\BankaTest\bin\Debug\BankaTest.exe
+C:\Users\Asus\Desktop\PROJELER\BankaTest\BankaTest\bin\Debug\BankaTest.pdb
+C:\Users\Asus\Desktop\PROJELER\BankaTest\BankaTest\obj\Debug\BankaTest.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PROJELER\BankaTest\BankaTest\obj\Debug\BankaTest.Form1.resources
+C:\Users\Asus\Desktop\PROJELER\BankaTest\BankaTest\obj\Debug\BankaTest.Form2.resources
+C:\Users\Asus\Desktop\PROJELER\BankaTest\BankaTest\obj\Debug\BankaTest.Form3.resources
+C:\Users\Asus\Desktop\PROJELER\BankaTest\BankaTest\obj\Debug\BankaTest.Properties.Resources.resources
+C:\Users\Asus\Desktop\PROJELER\BankaTest\BankaTest\obj\Debug\BankaTest.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\PROJELER\BankaTest\BankaTest\obj\Debug\BankaTest.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PROJELER\BankaTest\BankaTest\obj\Debug\BankaTest.exe
+C:\Users\Asus\Desktop\PROJELER\BankaTest\BankaTest\obj\Debug\BankaTest.pdb
+C:\Users\Asus\Desktop\25 derste 25 proje c#\BankaTest\BankaTest\bin\Debug\BankaTest.exe.config
+C:\Users\Asus\Desktop\25 derste 25 proje c#\BankaTest\BankaTest\bin\Debug\BankaTest.exe
+C:\Users\Asus\Desktop\25 derste 25 proje c#\BankaTest\BankaTest\bin\Debug\BankaTest.pdb
+C:\Users\Asus\Desktop\25 derste 25 proje c#\BankaTest\BankaTest\obj\Debug\BankaTest.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\25 derste 25 proje c#\BankaTest\BankaTest\obj\Debug\BankaTest.Form1.resources
+C:\Users\Asus\Desktop\25 derste 25 proje c#\BankaTest\BankaTest\obj\Debug\BankaTest.Form2.resources
+C:\Users\Asus\Desktop\25 derste 25 proje c#\BankaTest\BankaTest\obj\Debug\BankaTest.Form3.resources
+C:\Users\Asus\Desktop\25 derste 25 proje c#\BankaTest\BankaTest\obj\Debug\BankaTest.Properties.Resources.resources
+C:\Users\Asus\Desktop\25 derste 25 proje c#\BankaTest\BankaTest\obj\Debug\BankaTest.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\25 derste 25 proje c#\BankaTest\BankaTest\obj\Debug\BankaTest.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\25 derste 25 proje c#\BankaTest\BankaTest\obj\Debug\BankaTest.exe
+C:\Users\Asus\Desktop\25 derste 25 proje c#\BankaTest\BankaTest\obj\Debug\BankaTest.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\PROJELER\proje_nesne_hareketleri\proje_nesne_hareketleri\bin\Debug\proje_nesne_hareketleri.exe.config
+C:\Users\Asus\Desktop\PROJELER\proje_nesne_hareketleri\proje_nesne_hareketleri\bin\Debug\proje_nesne_hareketleri.exe
+C:\Users\Asus\Desktop\PROJELER\proje_nesne_hareketleri\proje_nesne_hareketleri\bin\Debug\proje_nesne_hareketleri.pdb
+C:\Users\Asus\Desktop\PROJELER\proje_nesne_hareketleri\proje_nesne_hareketleri\obj\Debug\proje_nesne_hareketleri.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PROJELER\proje_nesne_hareketleri\proje_nesne_hareketleri\obj\Debug\proje_nesne_hareketleri.Form1.resources
+C:\Users\Asus\Desktop\PROJELER\proje_nesne_hareketleri\proje_nesne_hareketleri\obj\Debug\proje_nesne_hareketleri.Properties.Resources.resources
+C:\Users\Asus\Desktop\PROJELER\proje_nesne_hareketleri\proje_nesne_hareketleri\obj\Debug\proje_nesne_hareketleri.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\PROJELER\proje_nesne_hareketleri\proje_nesne_hareketleri\obj\Debug\proje_nesne_hareketleri.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PROJELER\proje_nesne_hareketleri\proje_nesne_hareketleri\obj\Debug\proje_nesne_hareketleri.exe
+C:\Users\Asus\Desktop\PROJELER\proje_nesne_hareketleri\proje_nesne_hareketleri\obj\Debug\proje_nesne_hareketleri.pdb

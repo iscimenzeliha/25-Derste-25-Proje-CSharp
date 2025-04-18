@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\PROJELER\\proje_nesne_hareketleri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94C484A4-8035-4980-8D80-8C4900C38B8D}|proje_nesne_hareketleri\\proje_nesne_hareketleri.csproj|c:\\users\\asus\\desktop\\projeler\\proje_nesne_hareketleri\\proje_nesne_hareketleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94C484A4-8035-4980-8D80-8C4900C38B8D}|proje_nesne_hareketleri\\proje_nesne_hareketleri.csproj|solutionrelative:proje_nesne_hareketleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C484A4-8035-4980-8D80-8C4900C38B8D}|proje_nesne_hareketleri\\proje_nesne_hareketleri.csproj|C:\\Users\\Asus\\Desktop\\PROJELER\\proje_nesne_hareketleri\\proje_nesne_hareketleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C484A4-8035-4980-8D80-8C4900C38B8D}|proje_nesne_hareketleri\\proje_nesne_hareketleri.csproj|solutionrelative:proje_nesne_hareketleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PROJELER\\proje_nesne_hareketleri\\proje_nesne_hareketleri\\Form1.cs",
+              "RelativeDocumentMoniker": "proje_nesne_hareketleri\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PROJELER\\proje_nesne_hareketleri\\proje_nesne_hareketleri\\Form1.cs",
+              "RelativeToolTip": "proje_nesne_hareketleri\\Form1.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAwEUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:28:24.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PROJELER\\proje_nesne_hareketleri\\proje_nesne_hareketleri\\Form1.cs",
+              "RelativeDocumentMoniker": "proje_nesne_hareketleri\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PROJELER\\proje_nesne_hareketleri\\proje_nesne_hareketleri\\Form1.cs [Design]",
+              "RelativeToolTip": "proje_nesne_hareketleri\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:51:45.822Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

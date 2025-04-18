@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\PROJELER\Resim_\Resim_\bin\Debug\Resim_.exe.config
+C:\Users\Asus\Desktop\PROJELER\Resim_\Resim_\bin\Debug\Resim_.exe
+C:\Users\Asus\Desktop\PROJELER\Resim_\Resim_\bin\Debug\Resim_.pdb
+C:\Users\Asus\Desktop\PROJELER\Resim_\Resim_\obj\Debug\Resim_.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PROJELER\Resim_\Resim_\obj\Debug\Resim_.Form1.resources
+C:\Users\Asus\Desktop\PROJELER\Resim_\Resim_\obj\Debug\Resim_.Properties.Resources.resources
+C:\Users\Asus\Desktop\PROJELER\Resim_\Resim_\obj\Debug\Resim_.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\PROJELER\Resim_\Resim_\obj\Debug\Resim_.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PROJELER\Resim_\Resim_\obj\Debug\Resim_.exe
+C:\Users\Asus\Desktop\PROJELER\Resim_\Resim_\obj\Debug\Resim_.pdb

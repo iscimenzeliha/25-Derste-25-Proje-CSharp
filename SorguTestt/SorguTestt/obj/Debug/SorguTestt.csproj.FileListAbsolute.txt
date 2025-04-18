@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\PROJELER\SorguTestt\SorguTestt\bin\Debug\SorguTestt.exe.config
+C:\Users\Asus\Desktop\PROJELER\SorguTestt\SorguTestt\bin\Debug\SorguTestt.exe
+C:\Users\Asus\Desktop\PROJELER\SorguTestt\SorguTestt\bin\Debug\SorguTestt.pdb
+C:\Users\Asus\Desktop\PROJELER\SorguTestt\SorguTestt\obj\Debug\SorguTestt.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PROJELER\SorguTestt\SorguTestt\obj\Debug\SorguTestt.Form1.resources
+C:\Users\Asus\Desktop\PROJELER\SorguTestt\SorguTestt\obj\Debug\SorguTestt.Properties.Resources.resources
+C:\Users\Asus\Desktop\PROJELER\SorguTestt\SorguTestt\obj\Debug\SorguTestt.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\PROJELER\SorguTestt\SorguTestt\obj\Debug\SorguTestt.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PROJELER\SorguTestt\SorguTestt\obj\Debug\SorguTestt.exe
+C:\Users\Asus\Desktop\PROJELER\SorguTestt\SorguTestt\obj\Debug\SorguTestt.pdb

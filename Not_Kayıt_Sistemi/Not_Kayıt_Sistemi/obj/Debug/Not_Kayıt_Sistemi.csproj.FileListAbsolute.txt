@@ -1,0 +1,24 @@
+C:\Users\Asus\Desktop\PROJELER\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\bin\Debug\Not_Kayıt_Sistemi.exe.config
+C:\Users\Asus\Desktop\PROJELER\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\bin\Debug\Not_Kayıt_Sistemi.exe
+C:\Users\Asus\Desktop\PROJELER\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\bin\Debug\Not_Kayıt_Sistemi.pdb
+C:\Users\Asus\Desktop\PROJELER\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PROJELER\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.frngiris.resources
+C:\Users\Asus\Desktop\PROJELER\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.frmogrencıdetay.resources
+C:\Users\Asus\Desktop\PROJELER\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.frmogretmendetay.resources
+C:\Users\Asus\Desktop\PROJELER\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\Asus\Desktop\PROJELER\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\PROJELER\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PROJELER\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.exe
+C:\Users\Asus\Desktop\PROJELER\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.pdb
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\bin\Debug\Not_Kayıt_Sistemi.exe.config
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\bin\Debug\Not_Kayıt_Sistemi.exe
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\bin\Debug\Not_Kayıt_Sistemi.pdb
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.frngiris.resources
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.frmogrencıdetay.resources
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.frmogretmendetay.resources
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.exe
+C:\Users\Asus\Desktop\25 derste 25 proje c#\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.pdb

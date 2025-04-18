@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\PROJELER\RSS_Test\RSS_Test\obj\Debug\RSS_Test.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PROJELER\RSS_Test\RSS_Test\obj\Debug\RSS_Test.Form1.resources
+C:\Users\Asus\Desktop\PROJELER\RSS_Test\RSS_Test\obj\Debug\RSS_Test.Properties.Resources.resources
+C:\Users\Asus\Desktop\PROJELER\RSS_Test\RSS_Test\obj\Debug\RSS_Test.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\PROJELER\RSS_Test\RSS_Test\obj\Debug\RSS_Test.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PROJELER\RSS_Test\RSS_Test\bin\Debug\RSS_Test.exe.config
+C:\Users\Asus\Desktop\PROJELER\RSS_Test\RSS_Test\bin\Debug\RSS_Test.exe
+C:\Users\Asus\Desktop\PROJELER\RSS_Test\RSS_Test\bin\Debug\RSS_Test.pdb
+C:\Users\Asus\Desktop\PROJELER\RSS_Test\RSS_Test\obj\Debug\RSS_Test.exe
+C:\Users\Asus\Desktop\PROJELER\RSS_Test\RSS_Test\obj\Debug\RSS_Test.pdb

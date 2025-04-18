@@ -1,0 +1,22 @@
+C:\Users\Asus\Desktop\PROJELER\MESAJTEST\MESAJTEST\bin\Debug\MESAJTEST.exe.config
+C:\Users\Asus\Desktop\PROJELER\MESAJTEST\MESAJTEST\bin\Debug\MESAJTEST.exe
+C:\Users\Asus\Desktop\PROJELER\MESAJTEST\MESAJTEST\bin\Debug\MESAJTEST.pdb
+C:\Users\Asus\Desktop\PROJELER\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PROJELER\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.Form1.resources
+C:\Users\Asus\Desktop\PROJELER\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.Properties.Resources.resources
+C:\Users\Asus\Desktop\PROJELER\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\PROJELER\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PROJELER\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.exe
+C:\Users\Asus\Desktop\PROJELER\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.pdb
+C:\Users\Asus\Desktop\PROJELER\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.Form2.resources
+C:\Users\Asus\Desktop\25 derste 25 proje c#\MESAJTEST\MESAJTEST\bin\Debug\MESAJTEST.exe.config
+C:\Users\Asus\Desktop\25 derste 25 proje c#\MESAJTEST\MESAJTEST\bin\Debug\MESAJTEST.exe
+C:\Users\Asus\Desktop\25 derste 25 proje c#\MESAJTEST\MESAJTEST\bin\Debug\MESAJTEST.pdb
+C:\Users\Asus\Desktop\25 derste 25 proje c#\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\25 derste 25 proje c#\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.Form1.resources
+C:\Users\Asus\Desktop\25 derste 25 proje c#\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.Form2.resources
+C:\Users\Asus\Desktop\25 derste 25 proje c#\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.Properties.Resources.resources
+C:\Users\Asus\Desktop\25 derste 25 proje c#\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\25 derste 25 proje c#\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\25 derste 25 proje c#\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.exe
+C:\Users\Asus\Desktop\25 derste 25 proje c#\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.pdb

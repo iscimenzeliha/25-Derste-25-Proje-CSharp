@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\PROJELER\Kitaplık_Test\Kitaplık_Test\obj\Debug\Kitaplık_Test.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PROJELER\Kitaplık_Test\Kitaplık_Test\obj\Debug\Kitaplık_Test.Form1.resources
+C:\Users\Asus\Desktop\PROJELER\Kitaplık_Test\Kitaplık_Test\obj\Debug\Kitaplık_Test.Properties.Resources.resources
+C:\Users\Asus\Desktop\PROJELER\Kitaplık_Test\Kitaplık_Test\obj\Debug\Kitaplık_Test.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\PROJELER\Kitaplık_Test\Kitaplık_Test\obj\Debug\Kitaplık_Test.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PROJELER\Kitaplık_Test\Kitaplık_Test\bin\Debug\Kitaplık_Test.exe.config
+C:\Users\Asus\Desktop\PROJELER\Kitaplık_Test\Kitaplık_Test\bin\Debug\Kitaplık_Test.exe
+C:\Users\Asus\Desktop\PROJELER\Kitaplık_Test\Kitaplık_Test\bin\Debug\Kitaplık_Test.pdb
+C:\Users\Asus\Desktop\PROJELER\Kitaplık_Test\Kitaplık_Test\obj\Debug\Kitaplık_Test.exe
+C:\Users\Asus\Desktop\PROJELER\Kitaplık_Test\Kitaplık_Test\obj\Debug\Kitaplık_Test.pdb

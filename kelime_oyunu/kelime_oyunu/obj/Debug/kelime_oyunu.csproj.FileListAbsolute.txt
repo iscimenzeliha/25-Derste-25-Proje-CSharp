@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\PROJELER\kelime_oyunu\kelime_oyunu\bin\Debug\kelime_oyunu.exe.config
+C:\Users\Asus\Desktop\PROJELER\kelime_oyunu\kelime_oyunu\bin\Debug\kelime_oyunu.exe
+C:\Users\Asus\Desktop\PROJELER\kelime_oyunu\kelime_oyunu\bin\Debug\kelime_oyunu.pdb
+C:\Users\Asus\Desktop\PROJELER\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PROJELER\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.Form1.resources
+C:\Users\Asus\Desktop\PROJELER\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.Properties.Resources.resources
+C:\Users\Asus\Desktop\PROJELER\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\PROJELER\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PROJELER\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.exe
+C:\Users\Asus\Desktop\PROJELER\kelime_oyunu\kelime_oyunu\obj\Debug\kelime_oyunu.pdb

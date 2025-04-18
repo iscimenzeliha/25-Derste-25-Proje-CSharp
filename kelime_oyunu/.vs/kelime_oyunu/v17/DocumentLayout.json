@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\PROJELER\\kelime_oyunu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EDDCD7-C2F9-4F33-9730-DAC673170455}|kelime_oyunu\\kelime_oyunu.csproj|C:\\Users\\Asus\\Desktop\\PROJELER\\kelime_oyunu\\kelime_oyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1EDDCD7-C2F9-4F33-9730-DAC673170455}|kelime_oyunu\\kelime_oyunu.csproj|solutionrelative:kelime_oyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EDDCD7-C2F9-4F33-9730-DAC673170455}|kelime_oyunu\\kelime_oyunu.csproj|c:\\users\\asus\\desktop\\projeler\\kelime_oyunu\\kelime_oyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1EDDCD7-C2F9-4F33-9730-DAC673170455}|kelime_oyunu\\kelime_oyunu.csproj|solutionrelative:kelime_oyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|kelime_oyunu||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EDDCD7-C2F9-4F33-9730-DAC673170455}|kelime_oyunu\\kelime_oyunu.csproj|c:\\users\\asus\\desktop\\projeler\\kelime_oyunu\\kelime_oyunu\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kelime_oyunu",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PROJELER\\kelime_oyunu\\kelime_oyunu\\kelime_oyunu.csproj",
+              "RelativeDocumentMoniker": "kelime_oyunu\\kelime_oyunu.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PROJELER\\kelime_oyunu\\kelime_oyunu\\kelime_oyunu.csproj",
+              "RelativeToolTip": "kelime_oyunu\\kelime_oyunu.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-21T20:01:51.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PROJELER\\kelime_oyunu\\kelime_oyunu\\Form1.cs",
+              "RelativeDocumentMoniker": "kelime_oyunu\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PROJELER\\kelime_oyunu\\kelime_oyunu\\Form1.cs",
+              "RelativeToolTip": "kelime_oyunu\\Form1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:54:23.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PROJELER\\kelime_oyunu\\kelime_oyunu\\Form1.cs",
+              "RelativeDocumentMoniker": "kelime_oyunu\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PROJELER\\kelime_oyunu\\kelime_oyunu\\Form1.cs [Design]",
+              "RelativeToolTip": "kelime_oyunu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:05:19.745Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

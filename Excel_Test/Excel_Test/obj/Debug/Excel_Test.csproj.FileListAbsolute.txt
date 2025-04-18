@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\PROJELER\Excel_Test\Excel_Test\obj\Debug\Excel_Test.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PROJELER\Excel_Test\Excel_Test\obj\Debug\Excel_Test.Form1.resources
+C:\Users\Asus\Desktop\PROJELER\Excel_Test\Excel_Test\obj\Debug\Excel_Test.Properties.Resources.resources
+C:\Users\Asus\Desktop\PROJELER\Excel_Test\Excel_Test\obj\Debug\Excel_Test.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\PROJELER\Excel_Test\Excel_Test\obj\Debug\Excel_Test.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PROJELER\Excel_Test\Excel_Test\bin\Debug\Excel_Test.exe.config
+C:\Users\Asus\Desktop\PROJELER\Excel_Test\Excel_Test\bin\Debug\Excel_Test.exe
+C:\Users\Asus\Desktop\PROJELER\Excel_Test\Excel_Test\bin\Debug\Excel_Test.pdb
+C:\Users\Asus\Desktop\PROJELER\Excel_Test\Excel_Test\obj\Debug\Excel_Test.exe
+C:\Users\Asus\Desktop\PROJELER\Excel_Test\Excel_Test\obj\Debug\Excel_Test.pdb
